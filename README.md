@@ -26,8 +26,8 @@ My solutions to the Advent of Code 2020 written in C#.
 | 10-b | Done |
 | 11-a | Done |
 | 11-b | Done |
-| 12-a | Not done |
-| 12-b | Not done |
+| 12-a | Done |
+| 12-b | Done |
 | 13-a | Not done |
 | 13-b | Not done |
 | 14-a | Not done |

@@ -34,8 +34,8 @@ My solutions to the Advent of Code 2020 written in C#.
 | 14-b | Done |
 | 15-a | Done |
 | 15-b | Done |
-| 16-a | Not done |
-| 16-b | Not done |
+| 16-a | Done |
+| 16-b | Done |
 | 17-a | Not done |
 | 17-b | Not done |
 | 18-a | Not done |

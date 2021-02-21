@@ -40,8 +40,8 @@ My solutions to the Advent of Code 2020 written in C#.
 | 17-b | Done |
 | 18-a | Done |
 | 18-b | Done |
-| 19-a | Not done |
-| 19-b | Not done |
+| 19-a | Done |
+| 19-b | Done |
 | 20-a | Not done |
 | 20-b | Not done |
 | 21-a | Not done |
